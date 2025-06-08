@@ -1,4 +1,13 @@
 # 📝 Real-Time Collaborative Document Editor
+COMPANY:CODTECH IT SOLUTIONS
+
+NAME:GANDREDDI PALLAVI
+
+INTERN ID:CT04DF916
+
+DOMAIN:FULL STACK WEB DEVELOPMENT
+
+DURATION:4 WEEKS
 
 
 ## 📌 Task 3 - Full Stack Internship @ CodTech
